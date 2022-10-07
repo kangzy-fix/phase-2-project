@@ -1,4 +1,6 @@
-
+*{
+ background-color: whitesmoke;
+}
 .App {
   text-align: center;
 }
@@ -9,14 +11,20 @@
 }
 
 .App-header {
-  background-color: black;
+  background-color: blue;
   height: 80px;
   padding: 20px;
-  color: rgb(0, 0, 0);
+  color: blue;
+ font-size: large;
+ font-style: italic;
+ font-weight: 900;
+ text-decoration: underline;
 }
 
 .App-title {
   font-size: 1.5em;
+  color: blue;
+  
 }
 
 .App-intro {
@@ -50,18 +58,22 @@
   font-size: 16px;
   padding: 8px;
   margin: 0 10px 30px 10px;
+  border-radius: 100px;
+}
+.add-cars:hover{
+  color: blue;
 }
  
 .car {
   padding: 5px 25px 10px 25px;
   max-width: 24%;
   border: 1px solid #999;  
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 5px;
 }
 .car:hover{
-  color: #999;
-  box-shadow: 2px 2px 2px gray;
+  color: rgb(59, 45, 187);
+  box-shadow: 6px 6px 6px rgb(0, 0, 0);
 }
 
 /* car form styles */
@@ -69,6 +81,7 @@
 .car-form {
   width: 250px;
   margin: 0 auto;
+  border-radius: 10px;
 }
  
 .car-form input, .car-form textarea {
@@ -76,10 +89,19 @@
   font-size:14px;
   padding: 5px;
   margin: 5px;
+  border-radius: 40px;
+}
+.car-form textarea:hover{
+  color: blue;
 }
  
 .car-form button {
   font-size: 16px;
   padding: 4px;
   margin: 10px 10px 30px 10px;
+  color: rgb(2, 1, 1);
+  border-radius: 50px;
+}
+.car-form button:hover{
+  color: black;
 }
