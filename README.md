@@ -59,6 +59,6 @@ No licence required
 
 Slack Profile - [@Ian kangacha]
 
-Email Address - [kangzy fix](kangzy.fix@student.moringaschool.com)
+Email Address - [Ian Kangacha](kangzy.fix@student.moringaschool.com)
 
 [Go Back to the top](#Kangacha)
