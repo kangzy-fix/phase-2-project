@@ -4,7 +4,7 @@ My app is basically a react app where one can see different types of cars and ev
 # Portfolio
 
 ##### By Ian Wambugu Kangacha
-### This is a README file on my project on Fix moti Finder
+### This is a README file on my project on Fix moti gallery web App
 
 ## Table of Content
 
