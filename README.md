@@ -1,4 +1,4 @@
-# week2project
+# React-Phase-2-Project.
 Phase-2-project
 My app is basically a react app where one can see different types of cars and even add his her cars of interest.
 # Portfolio
