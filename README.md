@@ -57,7 +57,7 @@ My app is basically a react app where one can see different types of cars and ev
 
 No licence required.
 
-It is free and anyone is allowed to use and his/her contributio.
+It is free and anyone is allowed to use and his/her contribution.
 
 [Go Back to the top](#portfolio)
 
