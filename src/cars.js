@@ -27,7 +27,7 @@ const initialCars = {
    
   const additionalCars = {
     car5: {
-      model: "Roll-Royce Cullinan Black Badge",
+      model: "Rolls-Royce Cullinan Black Badge",
       engine: "6.8 l V12. Power. 591 hp @ 5,250 rpm (441 kW) Torque.",
       blurb: "Dynamic,powerul,potent, Presenting the most capable Rolls-Royce ever — an imposing force with unforeseen finesse. A conduit for absolute control. Behind its wheel, the velvet night welcomes you in and the city becomes your personal playground.",
       picture: "/carImages/download2.jpeg"
@@ -71,7 +71,7 @@ const initialCars = {
     car12: {
     model: "Ferrari La` Ferrari",
     engine: "6.3 L F140 FE V12 with 708 kW (950 hp; 963 PS)",
-    blurb: "LaFerrari, project name F150 is a limited production mid-engine mild hybrid sports car built by Italian automotive manufacturer Ferrari.[5] LaFerrari means The Ferrari in Italian and some other Romance languages, in the sense that it is the definitive Ferrari.",
+    blurb: "LaFerrari, project name F150 is a limited production mid-engine mild hybrid sports car built by Italian automotive manufacturer Ferrari LaFerrari means The Ferrari in Italian and some other Romance languages, in the sense that it is the definitive Ferrari.",
     picture: "/carImages/ferrari.jpeg"
   },
 };
