@@ -30,13 +30,16 @@ My app is basically a react app where one can see different types of cars and ev
 * Access to an internet connection
 
 ### Installation Process
-* 
+* npm start server
+* npm start
 
 [Go Back to the top](#portfolio)Kangacha
 ## Technology Used
 * HTML - is the markup language used to build the structure of the pages.
 
 * CSS - is the Cascading Style Sheets used to style the pages and make it visually appealing
+
+* JavaScript - is used to create dynamic and interactive web content like applications and browsers.
 
 ## Reference
 * 
