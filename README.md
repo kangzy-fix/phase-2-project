@@ -44,8 +44,7 @@ My app is basically a react app where one can see different types of cars and ev
 * React -  React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ## Reference
-* 
-Moringa School Course Content
+* Moringa School Course Content
 
 [Go Back to the top](#portfolio)
 
@@ -57,8 +56,8 @@ No licence required
 
 ## Authors Info
 
-Slack Profile - [@Kangzy Fix]
+Slack Profile - [@Ian kangacha]
 
 Email Address - [kangzy fix](kangzy.fix@student.moringaschool.com)
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Kangacha)
