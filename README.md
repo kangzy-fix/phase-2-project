@@ -30,6 +30,8 @@ My app is basically a react app where one can see different types of cars and ev
 
 * Access to an internet connection
 
+* Access terminal in WSL,LINUX & MAC
+
 ### Installation Process
 * npm start server
 * npm start
