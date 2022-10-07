@@ -21,7 +21,7 @@ My app is basically a react app where one can see different types of cars and ev
 
 ## Installation
 
-<p>Start by launching the index.html via a web browser</p>
+<p>Start by launching the npm start server via a web browser</p>
 
 ### Requirements
 
