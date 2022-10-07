@@ -46,12 +46,15 @@ My app is basically a react app where one can see different types of cars and ev
 
 ## Reference
 * Moringa School Course Content
+* 
 
 [Go Back to the top](#portfolio)
 
 ## Licence
 
-No licence required
+No licence required.
+
+It is free and anyone is allowed to use and his/her contributio.
 
 [Go Back to the top](#portfolio)
 
