@@ -22,6 +22,7 @@ My app is basically a react app where one can see different types of cars and ev
 ## Installation
 
 <p>Start by launching the npm start server via a web browser</p>
+<p>Then open a new terminal and then run start server to view the application<p>
 
 ### Requirements
 
