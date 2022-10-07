@@ -16,7 +16,7 @@ My app is basically a react app where one can see different types of cars and ev
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that shows my assignment at Moringa School being the second week of study. It contains the landing page of the AgriPlus business and provides more information about the business and the type of products it offers, and the products we produce </p>
+<p>I used React to build an gallery of cards displaying information about different cars. They display the make and model, a brief description, the engine and horsepower, and a picture. All the car info is stored in a JSON file. </p>
 
 
 ## Installation
