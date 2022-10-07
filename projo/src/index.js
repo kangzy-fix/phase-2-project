@@ -1,6 +1,8 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './components/App';
+// import cars from '../src/cars';
+import App from "../src/Components/App"
 
 ReactDOM.render(<App />, document.getElementById('root'));

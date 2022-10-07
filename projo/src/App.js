@@ -38,7 +38,7 @@ class App extends Component {
       <div className="App">
         <Header text="Vehicle Quick Info" />
         <p className="App-intro">
-          Some information about popular SUV and Crossover models.
+          Some information about popular Sportcars, SUV, Truck and Crossover models.
         </p>
         <div className="cars">
           {

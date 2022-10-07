@@ -23,7 +23,7 @@ class AddCar extends Component {
                 <input ref={(input) => this.engine = input} type="text" placeholder="Engine" />
                 <textarea ref={(input) => this.blurb = input} placeholder="Description">
                 </textarea>
-                <button type="submit">Add Car</button>
+                <button type="submit">Add your Car Choice</button>
             </form>
         );
     }
