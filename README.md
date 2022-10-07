@@ -41,6 +41,8 @@ My app is basically a react app where one can see different types of cars and ev
 
 * JavaScript - is used to create dynamic and interactive web content like applications and browsers.
 
+* React -  React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+
 ## Reference
 * 
 Moringa School Course Content
