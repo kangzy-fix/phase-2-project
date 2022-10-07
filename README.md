@@ -67,4 +67,4 @@ Slack Profile - [@Ian kangacha]
 
 Email Address - [Ian Kangacha](kangzy.fix@student.moringaschool.com)
 
-[Go Back to the top](#Kangacha)
+[Go Back to the top](# Ian Kangacha)
