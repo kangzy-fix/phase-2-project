@@ -27,52 +27,52 @@ const initialCars = {
    
   const additionalCars = {
     car5: {
-      model: "Honda CRV",
-      engine: "2.4-liter I-4 with 184 hp",
-      blurb: "One of the best-selling compact crossovers today, the Honda CR-V offers a spacious interior and seating for five, making it the perfect for family duty. Key competitors to the CR-V include the Toyota RAV4, Mazda CX-5, Hyundai Tucson, Ford Escape, and Subaru Forester.",
-      picture: "img/crv.jpg"
+      model: "Roll-Royce Cullinan Black Badge",
+      engine: "6.8 l V12. Power. 591 hp @ 5,250 rpm (441 kW) Torque.",
+      blurb: "Dynamic,powerul,potent, Presenting the most capable Rolls-Royce ever — an imposing force with unforeseen finesse. A conduit for absolute control. Behind its wheel, the velvet night welcomes you in and the city becomes your personal playground.",
+      picture: "/carImages/download2.jpeg"
     },
     car6: {
-      model: "Ford Escape",
-      engine: "2.5-liter I-4 with 168 hp",
-      blurb: "The compact 2018 Ford Escape crossover is positioned above the new subcompact EcoSport but below the midsize Edge, three-row Flex, three-row Explorer, and three-row Expedition SUVs.",
-      picture: "img/escape.jpg"
+      model: "Bently Bentyaga",
+      engine: "4.0L twin turbo-charged V8 engine with 542 horsepower.",
+      blurb: "is a mid-size luxury crossover SUV produced by Bentley Motors since late 2015. It is the second SUV, and the first in large numbers, to be produced by the brand. Its body is manufactured at the Volkswagen Zwickau-Mosel Plant in Germany, then painted by Paintbox Editions in Banbury, United Kingdom, with final assembly being at Bentley Motor's factory in Crewe, United Kingdom.",
+      picture: "/carImages/download (2).jpeg"
     },
     car7: {
-      model: "Jeep Renegade",
-      engine: "2.4-liter I-4 with 180 hp",
-      blurb: "The smallest and least expensive model in Jeep’s SUV lineup, slotting below the Patriot, Compass, Wrangler, Cherokee, and Grand Cherokee. The Renegade shares the same platform as the Fiat 500X.",
-      picture: "img/renegade.jpg"
+      model: "Jeep Wrangler",
+      engine: " 3.0-liter diesel V-6 with a 375-hp plug-in hybrid 4xe powertrain",
+      blurb: " is a series of compact and mid-size four-wheel drive off-road SUVs manufactured by Jeep since 1986, and currently in its fourth generation. The Wrangler JL, the most recent generation, was unveiled in late 2017 and is produced at Jeep's Toledo Complex.",
+      picture: "/carImages/download (3).jpeg"
     },
     car8: {
-      model: "Toyota RAV4",
-      engine: "2.5-liter I-4 with 176 hp",
-      blurb: "The 2018 Toyota RAV4 is a compact crossover that slots below the larger, three-row Highlander and the above the new subcompact C-HR. ",
-      picture: "img/rav4.jpg"
+      model: "Toyota Land Cruiser V8",
+      engine: "3.5-liter 8-cylinder engine with 409 hp and 649 Nm of torque",
+      blurb: "Gone is the thirsty 5.7-liter V8 naturally aspirated engine, replaced by a newly developed twin-turbo 3.5-liter V6. It pumps out 409 horsepower (305 kilowatts) and 479 pound-feet (650 Newton-meters) of torque",
+      picture: "/carImages/images (1).jpeg"
     },
     car9: {
-      model: "Toyota RAV4",
-      engine: "2.5-liter I-4 with 176 hp",
-      blurb: "The 2018 Toyota RAV4 is a compact crossover that slots below the larger, three-row Highlander and the above the new subcompact C-HR. ",
-      picture: "img/rav4.jpg"
+      model: "BMW X7",
+      engine: "375-hp turbocharged inline-six-cylinder, and the M60i has a twin-turbo 4.4-liter V-8",
+      blurb: "The BMW X7 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2993 cc while the Petrol engine is 2998 cc . It is available with Automatic transmission. Depending upon the variant and fuel type the X7 has a mileage of 10.54 to 13.38 kmpl .",
+      picture: "/carImages/download (4).jpeg"
     },
     car10: {
-      model: "Toyota RAV4",
-      engine: "2.5-liter I-4 with 176 hp",
-      blurb: "The 2018 Toyota RAV4 is a compact crossover that slots below the larger, three-row Highlander and the above the new subcompact C-HR. ",
-      picture: "img/rav4.jpg"
+      model: "Audi R8",
+      engine: "5.2-liter naturally aspirated V-10 ",
+      blurb: "Fast, elegant, and track-worthy, the 2022 Audi R8 is a supercar for all occasions. That platform makes room for a 5.2-liter V-10 behind the driver teamed with a quick-shifting 7-speed dual-clutch automatic transaxle. In its base form, the V-10 makes 562 hp and at the top end it spins out 602 hp.",
+      picture: "/carImages/images (3).jpeg"
     },
     car11: {
-      model: "Toyota RAV4",
-      engine: "2.5-liter I-4 with 176 hp",
-      blurb: "The 2018 Toyota RAV4 is a compact crossover that slots below the larger, three-row Highlander and the above the new subcompact C-HR. ",
-      picture: "img/rav4.jpg"
+      model: "Volkswagen Golf GTI MK8",
+      engine: "turbocharged 2.0-liter four-cylinder engine with 241hp",
+      blurb: "The 2022 Volkswagen GTI comes in three trims: S, SE, and Autobahn. All models feature a 241-horsepower turbocharged engine and front-wheel drive; a six-speed manual transmission is standard in all trims, and a seven-speed dual-clutch automatic transmission with paddle shifters is optional for $800.",
+      picture: "/carImages/download (5).jpeg"
     },
     car12: {
-    model: "Toyota Mark X",
-    engine: "2.5-liter I-4 with 176 hp",
-    blurb: "The 2018 Toyota RAV4 is a compact crossover that slots below the larger, three-row Highlander and the above the new subcompact C-HR. ",
-    picture: "img/rav4.jpg"
+    model: "Ferrari La` Ferrari",
+    engine: "6.3 L F140 FE V12 with 708 kW (950 hp; 963 PS)",
+    blurb: "LaFerrari, project name F150 is a limited production mid-engine mild hybrid sports car built by Italian automotive manufacturer Ferrari.[5] LaFerrari means The Ferrari in Italian and some other Romance languages, in the sense that it is the definitive Ferrari.",
+    picture: "/carImages/ferrari.jpeg"
   },
 };
    
